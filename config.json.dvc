@@ -1,0 +1,7 @@
+md5: 7f5bdcfe870fc4e46ca3be6eeed00982
+outs:
+- md5: 4457a6e709a08618b30279093bbc942d
+  path: config.json
+  cache: true
+  metric: false
+  persist: false
